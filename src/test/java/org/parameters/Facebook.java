@@ -38,6 +38,7 @@ public class Facebook extends BaseClass{
     	fillTextBox(l.getPassword(), pass);
     	btnClick(l.getBtnclick());
     	System.out.println("Test1");
+    	System.out.println("Start");
 	}
     @Test(enabled=false)
     private void test2() {
